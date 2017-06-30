@@ -1,0 +1,26 @@
+/* @package    mod_scheduler
+ * @author     CiL RWTH Aachen, Anna Heynkes
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+/********************* CSS for the student comment field ***********************/
+
+/* The Modal (background) */
+.modal {
+    display: none;
+}
+
+.modal.editor_atto {
+    width: 100%;
+    margin: 0px;
+}
+
+.modal.filemanager {
+    width: 100%;
+    margin: 0px;
+}
+
+.mocal #id_submitbutton {
+    padding: 4px 1px !important;
+    float: left;
+}
